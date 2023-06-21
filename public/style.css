@@ -1,0 +1,10 @@
+.login_bg{
+   
+        background-image: url('images/loginbg.jpeg');
+        min-height: 80vh;
+        background-size: cover;
+    
+}
+.active{
+        
+}

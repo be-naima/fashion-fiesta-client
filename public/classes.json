@@ -1,0 +1,81 @@
+[
+    {
+      
+      "image": "https://media.theeverymom.com/wp-content/uploads/2020/07/10154043/summer-accessories-for-kids-the-everymom-social.jpg",
+      "name": "Accessorize & Flair",
+      "instructor": "Alice Brown",
+      "available_seats": 20,
+      "price": 99.99,
+      "email": "alicebrown@gmail.com",
+      "approval_status":"",
+      "feedback":"",
+      "enrolled": 5
+      
+    },
+    {
+      
+      "image": "https://www.todays-woman.net/wp-content/uploads/2017/11/Capture.png",
+      "name": "Sew Cool",
+      "instructor": "Jane Smith",
+      "available_seats": 15,
+      "price": 149.99,
+      "email": "janesmith@gmail.com",
+      "approval_status":"",
+      "feedback":"",
+      "enrolled": 9
+      
+    },
+    {
+      
+      "image": "https://expatliving.hk/wp-content/uploads/2017/11/Kids-clothes-Hong-Kong-seed.jpg",
+      "name": "Dressup Delights",
+      "instructor": "John Doe",
+      "available_seats": 10,
+      "price": 199.99,
+      "email": "johndoe@gmail.com",
+      "approval_status":"",
+      "feedback":"",
+      "enrolled": 7
+     
+    },
+    {
+      
+      "image": "https://i.ytimg.com/vi/GnY-LzEXLvg/maxresdefault.jpg",
+      "name": "Magical Macovers",
+      "instructor": "Sarah Davis",
+      "available_seats": 12,
+      "price": 249.99,
+      "email": "sarahdavis@gmail.com",
+      "approval_status":"",
+      "feedback":"",
+      "enrolled": 4
+      
+    },
+    {
+     
+      "image": "https://glimageurl.golocall.com/golocal-post/image/492393_1478598541.jpeg",
+      "name": "Design Safari",
+      "instructor": "Bob Johnson",
+      "available_seats": 8,
+      "price": 179.99,
+      "email": "bobjohnson@gmail.com",
+      "approval_status":"",
+      "feedback":"",
+      "enrolled": 3
+      
+    },
+    {
+      
+      "image": "https://i0.wp.com/michiganmamanews.com/wp-content/uploads/2018/01/capture2.png?ssl=1",
+      "name": "Fashion Fusion",
+      "instructor": "Michael Wilson",
+      "available_seats": 0,
+      "price": 159.99,
+      "email": "michaelwilson@gmail.com",
+      "approval_status":"",
+      "feedback":"",
+      "enrolled": 6
+      
+    }
+  ]
+  
